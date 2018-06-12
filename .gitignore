@@ -132,3 +132,8 @@ Temporary Items
 
 # bundles
 dist
+
+# Visual Studio Code
+.classpath
+.project
+.settings/
